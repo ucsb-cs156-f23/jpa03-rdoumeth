@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-rdoumeth
 
 Running at: <https://jpa03-rdoumeth.dokku-09.cs.ucsb.edu/>
 
